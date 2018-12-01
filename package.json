@@ -1,0 +1,22 @@
+{
+  "name": "xvideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorm06/xVideo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorm06/xVideo/issues"
+  },
+  "homepage": "https://github.com/viktorm06/xVideo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
